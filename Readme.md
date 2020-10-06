@@ -38,7 +38,7 @@ Http Text file url Sample
 
 result sample ;
 
-![Result Sample](./testResult.png)
+![Result Sample](https://github.com/ysBayram/MiniFileServer/blob/master/testResult.PNG)
 
 ## Benchmark :
 
@@ -54,7 +54,7 @@ Then start 125 concurrent 100000 request with
 
 benchmark sample
 
-![Benchmark Sample](./BenchResult.png)
+![Benchmark Sample](https://github.com/ysBayram/MiniFileServer/blob/master/BenchResult.PNG)
 
 ### Test ,Benchmark And Development System Summary
 
